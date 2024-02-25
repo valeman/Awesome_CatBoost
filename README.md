@@ -51,10 +51,25 @@ The repository to showcase the best framework for tabular data - the Awesome Cat
 
 * [Contributing](#contributing)
 
+## Videos
+1. [XGBoost ❌ LightGBM ❌ CatBoost ❌ Scikit-Learn GRADIENT BOOSTING Performance Compared](https://www.youtube.com/watch?v=yO6gJM_t1Bw) 
+
+
 ## Papers
 1. [CatBoost: gradient boosting with categorical features support](http://learningsys.org/nips17/assets/papers/paper_11.pdf) by Anna Veronika Dorogush, Vasily Ershov, Andrey Gulin (NeurIPS, 2017) 🔥🔥🔥🔥🔥
 2. [CatBoost: unbiased boosting with categorical features](https://arxiv.org/abs/1706.09516) by Liudmila Prokhorenkova, Gleb Gusev, Aleksandr Vorobev, Anna Veronika Dorogush, Andrey Gulin (Neurips, 2018) 🔥🔥🔥🔥🔥
 3. 
 
 ## Articles 
-[CatBoost Hyperparameter Tuning Guide with Optuna](https://forecastegy.com/posts/catboost-hyperparameter-tuning-guide-with-optuna/) by Kaggle Grandmaster Mario Filho (2023) 🔥🔥🔥🔥🔥
+1. [The Gradient Boosters V: CatBoost](https://deep-and-shallow.com/2020/02/29/the-gradient-boosters-v-catboost/) by Manu Joseph (2020)
+2. [CatBoost Hyperparameter Tuning Guide with Optuna](https://forecastegy.com/posts/catboost-hyperparameter-tuning-guide-with-optuna/) by Kaggle Grandmaster Mario Filho (2023) 🔥🔥🔥🔥🔥
+3. [XGBoost? CatBoost? LightGBM?](https://www.joinplank.com/articles/xgboost-catboost-lightgbm) (2023)
+4. [Stop Using XGBoost…](https://towardsdatascience.com/stop-using-xgboost-660ed6718845) by Matt Przybyla (2021)
+5. [When to Choose CatBoost Over XGBoost or LightGBM - Practical Guide](https://neptune.ai/blog/when-to-choose-catboost-over-xgboost-or-lightgbm) (2023)
+6. [CatBoost vs. Light GBM vs. XGBoost](https://www.kdnuggets.com/2018/03/catboost-vs-light-gbm-vs-xgboost.html)
+7. [CatBoost: Gradient Tree Boosting for Recommender Systems, Classification and Regression](https://towardsdatascience.com/catboost-gradient-tree-boosting-for-recommender-systems-classification-and-regression-2f04f573a79e)
+8. [Is CatBoost faster than LightGBM and XGBoost?](https://tech.deliveryhero.com/is-catboost-faster-than-lightgbm-and-xgboost/)https://tech.deliveryhero.com/is-catboost-faster-than-lightgbm-and-xgboost/) 
+
+
+
+
