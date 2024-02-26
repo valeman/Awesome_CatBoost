@@ -69,6 +69,7 @@ The repository to showcase the best framework for tabular data - the Awesome Cat
 6. [CatBoost vs. Light GBM vs. XGBoost](https://www.kdnuggets.com/2018/03/catboost-vs-light-gbm-vs-xgboost.html)
 7. [CatBoost: Gradient Tree Boosting for Recommender Systems, Classification and Regression](https://towardsdatascience.com/catboost-gradient-tree-boosting-for-recommender-systems-classification-and-regression-2f04f573a79e)
 8. [Is CatBoost faster than LightGBM and XGBoost?](https://tech.deliveryhero.com/is-catboost-faster-than-lightgbm-and-xgboost/)https://tech.deliveryhero.com/is-catboost-faster-than-lightgbm-and-xgboost/)
+9. [5 Cute Features of CatBoost - Other boosting algorithms don't have these features](https://towardsdatascience.com/5-cute-features-of-catboost-61532c260f69) by Rukshan Pramoditha (2021)
 
 ## Kaggle 
 1. [catboost uncertainty](https://www.kaggle.com/code/raddar/catboost-uncertainty) by x4 Kaggle Grandmaster Darius Barušauskas (Kaggle 'raddar') (2024) 🔥🔥🔥🔥🔥
