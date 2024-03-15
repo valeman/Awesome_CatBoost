@@ -52,7 +52,8 @@ The repository to showcase the best framework for tabular data - the Awesome Cat
 * [Contributing](#contributing)
 
 ## Videos
-1. [XGBoost ❌ LightGBM ❌ CatBoost ❌ Scikit-Learn GRADIENT BOOSTING Performance Compared](https://www.youtube.com/watch?v=yO6gJM_t1Bw) 
+1. [XGBoost ❌ LightGBM ❌ CatBoost ❌ Scikit-Learn GRADIENT BOOSTING Performance Compared](https://www.youtube.com/watch?v=yO6gJM_t1Bw)
+2. [Yandex Catboost: Open-source Gradient Boosting Library](https://www.youtube.com/watch?v=s8Q_orF4tcI) (2018)
 
 
 ## Papers
