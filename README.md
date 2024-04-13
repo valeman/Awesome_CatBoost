@@ -77,6 +77,7 @@ The repository to showcase the best framework for tabular data - the Awesome Cat
 9. [5 Cute Features of CatBoost - Other boosting algorithms don't have these features](https://towardsdatascience.com/5-cute-features-of-catboost-61532c260f69) by Rukshan Pramoditha (2021)
 10. [What Is CatBoost?](https://builtin.com/machine-learning/catboost#) by Artem Oppermann (2023)
 11. [CatBoost Secrets: How It Handles Categorical Columns and Tree Growth](https://medium.com/@gneyapandya1234/catboost-secrets-how-it-handles-categorical-columns-and-tree-growth-b2ae9b96284b) by Gneya Pandya (2024)
+12. [Why you should learn CatBoost now](https://towardsdatascience.com/why-you-should-learn-catboost-now-390fb3895f76) by Felix Revert (2020)
 
 
 ## Kaggle 
