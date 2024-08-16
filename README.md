@@ -80,6 +80,7 @@ The repository to showcase the best framework for tabular data - the Awesome Cat
 10. [What Is CatBoost?](https://builtin.com/machine-learning/catboost#) by Artem Oppermann (2023)
 11. [CatBoost Secrets: How It Handles Categorical Columns and Tree Growth](https://medium.com/@gneyapandya1234/catboost-secrets-how-it-handles-categorical-columns-and-tree-growth-b2ae9b96284b) by Gneya Pandya (2024)
 12. [Why you should learn CatBoost now](https://towardsdatascience.com/why-you-should-learn-catboost-now-390fb3895f76) by Felix Revert (2020)
+13. [How CatBoost encodes categorical variables?](https://towardsdatascience.com/how-catboost-encodes-categorical-variables-3866fb2ae640) by Adrian Biarnes (2021)
 
 
 ## Kaggle 
