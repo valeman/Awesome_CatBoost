@@ -66,6 +66,7 @@ The repository to showcase the best framework for tabular data - the Awesome Cat
 4.     iDS-SQuaD. Machine learning selection of bright extragalactic objects to search for new gravitationally lensed quasars](https://www.aanda.org/articles/aa/full_html/2019/12/aa36006-19/aa36006-19.html) (2019)
 5.  [When Do Neural Nets Outperform Boosted Trees on Tabular Data?](https://arxiv.org/pdf/2305.02997v3.pdf) (2023) large scale study showing CatBoost outperofmed xgboost by 6% in terms of accuracy 🔥🔥🔥🔥🔥
 6.   [CatBoost for big data: an interdisciplinary review](CatBoost for big data: an interdisciplinary review) (2020) 🔥🔥🔥🔥🔥
+7.   [A Comprehensive Benchmark of Machine and Deep Learning Across Diverse Tabular Datasets](https://arxiv.org/abs/2408.14817) (2024) 🔥🔥🔥🔥🔥 large scale study showing CatBoost dominates on tabular data
 
 ## Articles 
 1. [The Gradient Boosters V: CatBoost](https://deep-and-shallow.com/2020/02/29/the-gradient-boosters-v-catboost/) by Manu Joseph (2020)
