@@ -1,5 +1,22 @@
 # Awesome_CatBoost
-The repository to showcase the best framework for tabular data - the Awesome CatBoost!
+**🔥 CatBoost: The Unrivaled King of Tabular Data 🔥**
+
+**TL;DR:** CatBoost isn't just another machine learning framework—it's THE framework dominating the tabular data landscape. And we’ve got the proof. 🚀 
+
+💡 **Why CatBoost Rules:**  
+- According to **"A Closer Look at Deep Learning on Tabular Data"**, the **largest-ever study** (300 datasets!) on tabular data, CatBoost consistently outperforms both deep learning and traditional tree-based models.  
+- Seamlessly handles categorical features natively—no more preprocessing headaches.  
+- Built for efficiency, accuracy, and real-world practicality.
+
+🌟 **Explore the Ultimate Resource**  
+The **[Awesome CatBoost Repository](https://github.com/valeman/Awesome_CatBoost)** is your one-stop shop to master this powerhouse. Tutorials, best practices, cutting-edge papers, and more—all in one place.
+
+🌐 Tabular data is everywhere, and CatBoost proves it’s the ultimate solution. Time to level up your machine learning game. 💪
+
+👉 Dive in now: [Awesome CatBoost Repo](https://github.com/valeman/Awesome_CatBoost)  
+📜 Read the groundbreaking paper: [ArXiv Study](https://arxiv.org/abs/2407.00956)  
+
+#MachineLearning #CatBoost #DataScience #AI #TabularData #GradientBoosting #AwesomeRepo #Domination
 
 ## [Table of Contents]()
 
@@ -60,7 +77,7 @@ The repository to showcase the best framework for tabular data - the Awesome Cat
 
 
 ## Papers
-1. [A Closer Look at Deep Learning on Tabular Data](https://arxiv.org/abs/2407.00956) large scale study (300! datasets) showing CatBoost dominates on tabular data 🔥🔥🔥🔥🔥🚀🚀🚀🚀🚀
+1. [A Closer Look at Deep Learning on Tabular Data](https://arxiv.org/abs/2407.00956) large scale study (300! datasets) showing CatBoost dominates on tabular data 🔥🔥🔥🔥🔥🚀🚀🚀🚀🚀 [code](https://github.com/qile2000/LAMDA-TALENT)
 2.  [CatBoost: gradient boosting with categorical features support](http://learningsys.org/nips17/assets/papers/paper_11.pdf) by Anna Veronika Dorogush, Vasily Ershov, Andrey Gulin (NeurIPS, 2017) 🔥🔥🔥🔥🔥
 3.   [CatBoost: unbiased boosting with categorical features](https://arxiv.org/abs/1706.09516) by Liudmila Prokhorenkova, Gleb Gusev, Aleksandr Vorobev, Anna Veronika Dorogush, Andrey Gulin (Neurips, 2018) 🔥🔥🔥🔥🔥
 4.     [KiDS-SQuaD. Machine learning selection of bright extragalactic objects to search for new gravitationally lensed quasars](https://www.aanda.org/articles/aa/full_html/2019/12/aa36006-19/aa36006-19.html) (2019)
