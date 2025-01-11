@@ -1,6 +1,6 @@
 # Awesome_CatBoost
 
-![CatBoost](IMG6213.png)
+![CatBoost](IMG_6213.jpeg)
 
 **🔥 CatBoost: The Unrivaled King of Tabular Data 🔥**
 
