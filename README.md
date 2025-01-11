@@ -1,4 +1,7 @@
 # Awesome_CatBoost
+
+![CatBoost](IMG6213.png)
+
 **🔥 CatBoost: The Unrivaled King of Tabular Data 🔥**
 
 **TL;DR:** CatBoost isn't just another machine learning framework—it's THE framework dominating the tabular data landscape. And we’ve got the proof. 🚀 
