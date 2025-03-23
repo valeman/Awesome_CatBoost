@@ -106,6 +106,7 @@ The **[Awesome CatBoost Repository](https://github.com/valeman/Awesome_CatBoost)
 
 ## Kaggle 
 1. [catboost uncertainty](https://www.kaggle.com/code/raddar/catboost-uncertainty) by x4 Kaggle Grandmaster Darius Barušauskas (Kaggle 'raddar') (2024) 🔥🔥🔥🔥🔥
+2. [Probabilistic forecasting I: Temperature](https://www.kaggle.com/competitions/probabilistic-forecasting-i-temperature/discussion/524303) (2024) 🔥🔥🔥🔥🔥
 
 
 
