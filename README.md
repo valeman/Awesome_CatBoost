@@ -8,6 +8,8 @@
 
 My new book 'Mastering CatBoost: The Hidden Gem of Tabular AI' can be ordered on Gumroad [**Gumroad**]([https://valeman.gumroad.com/l/advancedconformalprediction](https://valeman.gumroad.com/l/MasteringCatboost)
 
+
+
 ![CatBoost](https://github.com/valeman/Awesome_CatBoost/blob/main/book_cover_square.png)
 
 **🔥 CatBoost: The Unrivaled King of Tabular Data 🔥**
