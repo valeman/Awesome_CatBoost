@@ -6,7 +6,7 @@
 
 # Awesome Conformal Prediction [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) 
 
-My new book 'Mastering CatBoost: The Hidden Gem of Tabular AI' can be ordered on Gumroad [**Gumroad**]([https://valeman.gumroad.com/l/advancedconformalprediction](https://valeman.gumroad.com/l/MasteringCatboost)
+My new book 'Mastering CatBoost: The Hidden Gem of Tabular AI' can be ordered on Gumroad [**Gumroad**](https://valeman.gumroad.com/l/MasteringCatboost](https://valeman.gumroad.com/l/MasteringCatboost)
 
 
 
