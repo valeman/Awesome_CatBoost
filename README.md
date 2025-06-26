@@ -1,6 +1,6 @@
 # Awesome_CatBoost
 
-![CatBoost](IMG_6213.jpeg)
+![CatBoost](https://github.com/valeman/Awesome_CatBoost/blob/main/book_cover_square.png)
 
 **🔥 CatBoost: The Unrivaled King of Tabular Data 🔥**
 
