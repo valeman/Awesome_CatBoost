@@ -1,5 +1,13 @@
 # Awesome_CatBoost
 
+![GitHub Repo stars](https://img.shields.io/github/stars/valeman/awesome-conformal-prediction?style=social)
+
+<a href="https://www.buymeacoffee.com/valeman" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
+# Awesome Conformal Prediction [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![DOI](https://zenodo.org/badge/436989758.svg)]
+
+https://valeman.gumroad.com/l/MasteringCatboost
+
 ![CatBoost](https://github.com/valeman/Awesome_CatBoost/blob/main/book_cover_square.png)
 
 **🔥 CatBoost: The Unrivaled King of Tabular Data 🔥**
