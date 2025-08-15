@@ -95,6 +95,7 @@ The **[Awesome CatBoost Repository](https://github.com/valeman/Awesome_CatBoost)
 2.  [A Closer Look at Deep Learning on Tabular Data](https://arxiv.org/abs/2407.00956) large scale study (300! datasets) showing CatBoost dominates on tabular data 🔥🔥🔥🔥🔥🚀🚀🚀🚀🚀 [code](https://github.com/qile2000/LAMDA-TALENT)
 3.  [When Do Neural Nets Outperform Boosted Trees on Tabular Data?](https://arxiv.org/pdf/2305.02997v3.pdf) (2023) large scale study showing CatBoost outperofmed xgboost by 6% in terms of accuracy 🔥🔥🔥🔥🔥
 4.   [A Comprehensive Benchmark of Machine and Deep Learning Across Diverse Tabular Datasets](https://arxiv.org/abs/2408.14817) (2024) 🔥🔥🔥🔥🔥 large scale study showing CatBoost dominates on tabular data
+5.   [CatBoost vs XGBoost](https://mljar.com/machine-learning/catboost-vs-xgboost/)
 
 
 ## Papers
