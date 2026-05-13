@@ -89,6 +89,8 @@ The **[Awesome CatBoost Repository](https://github.com/valeman/Awesome_CatBoost)
 2. [XGBoost ❌ LightGBM ❌ CatBoost ❌ Scikit-Learn GRADIENT BOOSTING Performance Compared](https://www.youtube.com/watch?v=yO6gJM_t1Bw)
 3. [Yandex Catboost: Open-source Gradient Boosting Library](https://www.youtube.com/watch?v=s8Q_orF4tcI) (2018)
 4. [CatBoost Part 1: Ordered Target Encoding](https://www.youtube.com/watch?v=KXOTSkPL2X4) by Josh Starmer (2023)
+5. [Mastering CatBoost](https://www.youtube.com/watch?v=WQdeDxmz5BU) 
+6. [The Strategic Showdown CatBoost vs XGBoost vs LightGBM](https://www.youtube.com/watch?v=0vUKG35OmR8) 🔥🔥🔥🔥🔥🚀
 
 ## Benchmarks 
 1. [TabArena: A Living Benchmark for Machine Learning on Tabular Data](https://arxiv.org/abs/2506.16791) [TabArena](https://huggingface.co/spaces/TabArena/leaderboard)
