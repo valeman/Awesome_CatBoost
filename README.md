@@ -1,6 +1,6 @@
 # Awesome_CatBoost
 
-![GitHub Repo stars](https://img.shields.io/github/stars/valeman/awesome-conformal-prediction?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/valeman/Awesome_CatBooststyle=social)
 
 <a href="https://www.buymeacoffee.com/valeman" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
