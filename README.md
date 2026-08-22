@@ -8,7 +8,7 @@ Curated by [Valeriy Manokhin, PhD, MBA, CQF](https://valeriy.ai).
 
 ## Mastering CatBoost
 
-![Mastering CatBoost](https://raw.githubusercontent.com/valeman/mastering-catboost/main/cover/book-cover.png)
+![Mastering CatBoost](book-cover.jpg)
 
 **Mastering CatBoost: The Hidden Gem of Tabular AI** is the practical companion
 to this list. It follows CatBoost from ordered statistics and symmetric trees
