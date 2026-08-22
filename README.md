@@ -25,6 +25,20 @@ and deployment.
 The Amazon links search by ISBN until the print listings are active. The
 Gumroad links are the maintained purchase pages.
 
+## What was added
+
+This repository now includes a maintained companion layer for the book:
+
+- 119 runnable book listings with matching notebooks in the public code repository.
+- A chapter-by-chapter map from the book to the relevant CatBoost APIs, tutorials, and research papers.
+- Curated starting points for ordered statistics, tuning, uncertainty, ranking, feature engineering, calibration, SHAP, export, MLOps, and causal/propensity workflows.
+- Primary-source links for CatBoost, conformal prediction, tabular benchmarks, SHAP, MLflow, DVC, Feast, and FastAPI.
+- Dataset and experiment-hygiene guidance covering validation boundaries, schema recording, seeds, horizons, and reproducibility.
+
+Start with the [additional materials guide](ADDITIONAL_MATERIALS.md), then open
+the [book listing index](https://github.com/valeman/mastering-catboost/blob/main/book_code/INDEX.md)
+to jump directly into runnable examples.
+
 ## Why CatBoost is worth studying
 
 CatBoost is a gradient-boosted decision-tree library with native support for
@@ -130,19 +144,13 @@ learning path rather than a claim that one model wins on every dataset.
 7.   [A Comprehensive Benchmark of Machine and Deep Learning Across Diverse Tabular Datasets](https://arxiv.org/abs/2408.14817) (2024) 🔥🔥🔥🔥🔥 large scale study showing CatBoost dominates on tabular data
 
 ## Articles 
-1. [The Gradient Boosters V: CatBoost](https://deep-and-shallow.com/2020/02/29/the-gradient-boosters-v-catboost/) by Manu Joseph (2020)
-2. [CatBoost Hyperparameter Tuning Guide with Optuna](https://forecastegy.com/posts/catboost-hyperparameter-tuning-guide-with-optuna/) by Kaggle Grandmaster Mario Filho (2023) 🔥🔥🔥🔥🔥
-3. [XGBoost? CatBoost? LightGBM?](https://www.joinplank.com/articles/xgboost-catboost-lightgbm) (2023)
-4. [Stop Using XGBoost…](https://towardsdatascience.com/stop-using-xgboost-660ed6718845) by Matt Przybyla (2021)
-5. [When to Choose CatBoost Over XGBoost or LightGBM - Practical Guide](https://neptune.ai/blog/when-to-choose-catboost-over-xgboost-or-lightgbm) (2023)
-6. [CatBoost vs. Light GBM vs. XGBoost](https://www.kdnuggets.com/2018/03/catboost-vs-light-gbm-vs-xgboost.html)
-7. [CatBoost: Gradient Tree Boosting for Recommender Systems, Classification and Regression](https://towardsdatascience.com/catboost-gradient-tree-boosting-for-recommender-systems-classification-and-regression-2f04f573a79e)
-8. [Is CatBoost faster than LightGBM and XGBoost?](https://tech.deliveryhero.com/is-catboost-faster-than-lightgbm-and-xgboost/)
-9. [5 Cute Features of CatBoost - Other boosting algorithms don't have these features](https://towardsdatascience.com/5-cute-features-of-catboost-61532c260f69) by Rukshan Pramoditha (2021)
-10. [What Is CatBoost?](https://builtin.com/machine-learning/catboost#) by Artem Oppermann (2023)
-11. [CatBoost Secrets: How It Handles Categorical Columns and Tree Growth](https://medium.com/@gneyapandya1234/catboost-secrets-how-it-handles-categorical-columns-and-tree-growth-b2ae9b96284b) by Gneya Pandya (2024)
-12. [Why you should learn CatBoost now](https://towardsdatascience.com/why-you-should-learn-catboost-now-390fb3895f76) by Felix Revert (2020)
-13. [How CatBoost encodes categorical variables?](https://towardsdatascience.com/how-catboost-encodes-categorical-variables-3866fb2ae640) by Adrian Biarnes (2021)
+1. [CatBoost Hyperparameter Tuning Guide with Optuna](https://forecastegy.com/posts/catboost-hyperparameter-tuning-guide-with-optuna/) by Mario Filho (2023)
+2. [XGBoost? CatBoost? LightGBM?](https://www.joinplank.com/articles/xgboost-catboost-lightgbm) (2023)
+3. [When to Choose CatBoost Over XGBoost or LightGBM](https://neptune.ai/blog/when-to-choose-catboost-over-xgboost-or-lightgbm) (2023)
+4. [CatBoost vs. LightGBM vs. XGBoost](https://www.kdnuggets.com/2018/03/catboost-vs-light-gbm-vs-xgboost.html)
+5. [What Is CatBoost?](https://builtin.com/machine-learning/catboost) by Artem Oppermann (2023)
+6. [CatBoost Secrets: How It Handles Categorical Columns and Tree Growth](https://medium.com/@gneyapandya1234/catboost-secrets-how-it-handles-categorical-columns-and-tree-growth-b2ae9b96284b) by Gneya Pandya (2024)
+7. [How CatBoost encodes categorical variables](https://towardsdatascience.com/how-catboost-encodes-categorical-variables-3866fb2ae640) by Adrian Biarnes (2021)
 
 
 ## Kaggle 
