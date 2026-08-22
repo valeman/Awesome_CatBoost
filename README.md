@@ -1,48 +1,60 @@
-# Awesome_CatBoost
+# Awesome CatBoost [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-![GitHub Repo stars](https://img.shields.io/github/stars/valeman/Awesome_CatBoost)
+[![GitHub Repo stars](https://img.shields.io/github/stars/valeman/Awesome_CatBoost)](https://github.com/valeman/Awesome_CatBoost)
 
 <a href="https://www.buymeacoffee.com/valeman" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
-# Awesome Conformal Prediction [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) 
+Curated by [Valeriy Manokhin, PhD, MBA, CQF](https://valeriy.ai).
 
-My new book *Mastering CatBoost: The Hidden Gem of Tabular AI* is now available on [**Gumroad**](https://valeman.gumroad.com/l/MasteringCatboost).
+## Mastering CatBoost
 
+![Mastering CatBoost](https://raw.githubusercontent.com/valeman/mastering-catboost/main/cover/book-cover.png)
 
+**Mastering CatBoost: The Hidden Gem of Tabular AI** is the practical companion
+to this list. It follows CatBoost from ordered statistics and symmetric trees
+through tuning, uncertainty, ranking, feature engineering, interpretability,
+and deployment.
 
+- [Paperback on Amazon (ISBN 978-1-919012-43-8)](https://www.amazon.com/s?k=9781919012438)
+- [Hardcover on Amazon (ISBN 978-1-919012-44-5)](https://www.amazon.com/s?k=9781919012445)
+- [Core edition on Gumroad](https://valeman.gumroad.com/l/MasteringCatboost)
+- [Pro companion on Gumroad](https://valeman.gumroad.com/l/MasteringCatBoostPro)
+- [Public code and notebooks](https://github.com/valeman/mastering-catboost)
+- [Chapter-by-chapter additional materials](ADDITIONAL_MATERIALS.md)
 
-![CatBoost](https://github.com/valeman/Awesome_CatBoost/blob/main/book_cover_square.png)
+The Amazon links search by ISBN until the print listings are active. The
+Gumroad links are the maintained purchase pages.
 
-**🔥 CatBoost: The Unrivaled King of Tabular Data 🔥**
+## Why CatBoost is worth studying
 
-**TL;DR:** CatBoost isn't just another machine learning framework—it's THE framework dominating the tabular data landscape. And we’ve got the proof. 🚀 
+CatBoost is a gradient-boosted decision-tree library with native support for
+categorical, text, and embedding features. Comparative studies are useful
+context, not universal guarantees: results depend on the dataset, protocol,
+feature representation, and compute budget. This repository collects the
+papers, tutorials, benchmarks, and production references needed to test those
+claims rather than repeat them.
 
-💡 **Why CatBoost Rules:**  
-- According to **"A Closer Look at Deep Learning on Tabular Data"**, the **largest-ever study** (300 datasets!) on tabular data, CatBoost consistently outperforms both deep learning and traditional tree-based models.  
-- Seamlessly handles categorical features natively—no more preprocessing headaches.  
-- Built for efficiency, accuracy, and real-world practicality.
+- [Official CatBoost documentation](https://catboost.ai/docs/en/)
+- [Official CatBoost tutorials](https://github.com/catboost/tutorials)
+- [CatBoost: Unbiased Boosting with Categorical Features](https://proceedings.neurips.cc/paper_files/paper/2018/file/14491b756b3a51daac41c24863285549-Paper.pdf)
+- [CatBoost: Gradient Boosting with Categorical Features Support](https://arxiv.org/abs/1810.11363)
+- [Large-scale tabular benchmark: TabArena](https://arxiv.org/abs/2506.16791)
 
-🌟 **Explore the Ultimate Resource**  
-The **[Awesome CatBoost Repository](https://github.com/valeman/Awesome_CatBoost)** is your one-stop shop to master this powerhouse. Tutorials, best practices, cutting-edge papers, and more—all in one place.
-
-🌐 Tabular data is everywhere, and CatBoost proves it’s the ultimate solution. Time to level up your machine learning game. 💪
-
-👉 Dive in now: [Awesome CatBoost Repo](https://github.com/valeman/Awesome_CatBoost)  
-📜 Read the groundbreaking paper: [ArXiv Study](https://arxiv.org/abs/2407.00956)  
-
-#MachineLearning #CatBoost #DataScience #AI #TabularData #GradientBoosting #AwesomeRepo #Domination
-
-## [Table of Contents]()
+## [Table of Contents](#table-of-contents)
 
 * [Events](#events)
 
 * [Books](#books)
 
+* [Mastering CatBoost](#mastering-catboost)
+
 * [PhD and MSc Theses](#theses)
 
 * [Videos](#videos)
 
-* * [Benchmarks](#benchmarks)
+* [Benchmarks](#benchmarks)
+
+* [Additional materials](#additional-materials)
  
 * [Papers](#papers)
 
@@ -84,6 +96,14 @@ The **[Awesome CatBoost Repository](https://github.com/valeman/Awesome_CatBoost)
 
 * [Contributing](#contributing)
 
+## Additional materials
+
+The new [additional materials guide](ADDITIONAL_MATERIALS.md) maps the book's
+chapters to the public code, official CatBoost tutorials and documentation,
+primary research papers, uncertainty/ranking/interpretability resources, and
+production tools such as MLflow, DVC, Feast, and FastAPI. It is curated as a
+learning path rather than a claim that one model wins on every dataset.
+
 ## Videos
 1. [Anna Veronika Dorogush - CatBoost - the new generation of Gradient Boosting](https://www.youtube.com/watch?v=oGRIGdsz7bM) (EuroPython Conference, 2018)
 2. [XGBoost ❌ LightGBM ❌ CatBoost ❌ Scikit-Learn GRADIENT BOOSTING Performance Compared](https://www.youtube.com/watch?v=yO6gJM_t1Bw)
@@ -95,7 +115,7 @@ The **[Awesome CatBoost Repository](https://github.com/valeman/Awesome_CatBoost)
 ## Benchmarks 
 1. [TabArena: A Living Benchmark for Machine Learning on Tabular Data](https://arxiv.org/abs/2506.16791) [TabArena](https://huggingface.co/spaces/TabArena/leaderboard)
 2.  [A Closer Look at Deep Learning on Tabular Data](https://arxiv.org/abs/2407.00956) large scale study (300! datasets) showing CatBoost dominates on tabular data 🔥🔥🔥🔥🔥🚀🚀🚀🚀🚀 [code](https://github.com/qile2000/LAMDA-TALENT)
-3.  [When Do Neural Nets Outperform Boosted Trees on Tabular Data?](https://arxiv.org/pdf/2305.02997v3.pdf) (2023) large scale study showing CatBoost outperofmed xgboost by 6% in terms of accuracy 🔥🔥🔥🔥🔥
+3. [When Do Neural Nets Outperform Boosted Trees on Tabular Data?](https://arxiv.org/pdf/2305.02997v3.pdf) (2023) — a large comparison whose results vary by dataset and protocol.
 4.   [A Comprehensive Benchmark of Machine and Deep Learning Across Diverse Tabular Datasets](https://arxiv.org/abs/2408.14817) (2024) 🔥🔥🔥🔥🔥 large scale study showing CatBoost dominates on tabular data
 5.   [CatBoost vs XGBoost](https://mljar.com/machine-learning/catboost-vs-xgboost/)
 
@@ -104,9 +124,9 @@ The **[Awesome CatBoost Repository](https://github.com/valeman/Awesome_CatBoost)
 1. [A Closer Look at Deep Learning on Tabular Data](https://arxiv.org/abs/2407.00956) large scale study (300! datasets) showing CatBoost dominates on tabular data 🔥🔥🔥🔥🔥🚀🚀🚀🚀🚀 [code](https://github.com/qile2000/LAMDA-TALENT)
 2.  [CatBoost: gradient boosting with categorical features support](http://learningsys.org/nips17/assets/papers/paper_11.pdf) by Anna Veronika Dorogush, Vasily Ershov, Andrey Gulin (NeurIPS, 2017) 🔥🔥🔥🔥🔥
 3.   [CatBoost: unbiased boosting with categorical features](https://arxiv.org/abs/1706.09516) by Liudmila Prokhorenkova, Gleb Gusev, Aleksandr Vorobev, Anna Veronika Dorogush, Andrey Gulin (Neurips, 2018) 🔥🔥🔥🔥🔥
-4.     [KiDS-SQuaD. Machine learning selection of bright extragalactic objects to search for new gravitationally lensed quasars](https://www.aanda.org/articles/aa/full_html/2019/12/aa36006-19/aa36006-19.html) (2019)
-5.  [When Do Neural Nets Outperform Boosted Trees on Tabular Data?](https://arxiv.org/pdf/2305.02997v3.pdf) (2023) large scale study showing CatBoost outperofmed xgboost by 6% in terms of accuracy 🔥🔥🔥🔥🔥
-6.   [CatBoost for big data: an interdisciplinary review](CatBoost for big data: an interdisciplinary review) (2020) 🔥🔥🔥🔥🔥
+4. [KiDS-SQuaD: Machine learning selection of bright extragalactic objects to search for new gravitationally lensed quasars](https://www.aanda.org/articles/aa/full_html/2019/12/aa36006-19/aa36006-19.html) (2019)
+5. [When Do Neural Nets Outperform Boosted Trees on Tabular Data?](https://arxiv.org/pdf/2305.02997v3.pdf) (2023)
+6. [CatBoost for big data: an interdisciplinary review](https://pubmed.ncbi.nlm.nih.gov/33169094/) (Hancock and Khoshgoftaar, 2020)
 7.   [A Comprehensive Benchmark of Machine and Deep Learning Across Diverse Tabular Datasets](https://arxiv.org/abs/2408.14817) (2024) 🔥🔥🔥🔥🔥 large scale study showing CatBoost dominates on tabular data
 
 ## Articles 
@@ -117,7 +137,7 @@ The **[Awesome CatBoost Repository](https://github.com/valeman/Awesome_CatBoost)
 5. [When to Choose CatBoost Over XGBoost or LightGBM - Practical Guide](https://neptune.ai/blog/when-to-choose-catboost-over-xgboost-or-lightgbm) (2023)
 6. [CatBoost vs. Light GBM vs. XGBoost](https://www.kdnuggets.com/2018/03/catboost-vs-light-gbm-vs-xgboost.html)
 7. [CatBoost: Gradient Tree Boosting for Recommender Systems, Classification and Regression](https://towardsdatascience.com/catboost-gradient-tree-boosting-for-recommender-systems-classification-and-regression-2f04f573a79e)
-8. [Is CatBoost faster than LightGBM and XGBoost?](https://tech.deliveryhero.com/is-catboost-faster-than-lightgbm-and-xgboost/)https://tech.deliveryhero.com/is-catboost-faster-than-lightgbm-and-xgboost/)
+8. [Is CatBoost faster than LightGBM and XGBoost?](https://tech.deliveryhero.com/is-catboost-faster-than-lightgbm-and-xgboost/)
 9. [5 Cute Features of CatBoost - Other boosting algorithms don't have these features](https://towardsdatascience.com/5-cute-features-of-catboost-61532c260f69) by Rukshan Pramoditha (2021)
 10. [What Is CatBoost?](https://builtin.com/machine-learning/catboost#) by Artem Oppermann (2023)
 11. [CatBoost Secrets: How It Handles Categorical Columns and Tree Growth](https://medium.com/@gneyapandya1234/catboost-secrets-how-it-handles-categorical-columns-and-tree-growth-b2ae9b96284b) by Gneya Pandya (2024)
@@ -129,6 +149,7 @@ The **[Awesome CatBoost Repository](https://github.com/valeman/Awesome_CatBoost)
 1. [catboost uncertainty](https://www.kaggle.com/code/raddar/catboost-uncertainty) by x4 Kaggle Grandmaster Darius Barušauskas (Kaggle 'raddar') (2024) 🔥🔥🔥🔥🔥
 2. [Probabilistic forecasting I: Temperature](https://www.kaggle.com/competitions/probabilistic-forecasting-i-temperature/discussion/524303) (2024) 🔥🔥🔥🔥🔥
 
+## About the curator
 
-
-
+[Valeriy Manokhin, PhD, MBA, CQF](https://valeriy.ai) curates this list and
+maintains the companion book and code repository.
